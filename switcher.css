@@ -1,0 +1,134 @@
+/* Main Style */
+.switcher h3 {
+	font-size:13px;
+	margin: 1px 0 3px 0;
+	color:#fff;
+}
+
+.switcher {
+    background:#000;
+	background:rgba(50, 58, 59, 0.8);
+	width:255px;
+	position:fixed;
+	top:19.4%;
+	z-index:99999;
+	left:0px;
+	border-radius: 0 0 4px 0;
+	border-right:none;
+	font-family: var(--font-primary);
+	-webkit-box-shadow:  0px 0px 4px 0px rgba(51, 51, 51, 0.4);
+	box-shadow:  0px 0px 4px 0px rgba(51, 51, 51, 0.4);
+}
+
+.switcher h2 {
+	background: #1B1A1A;
+	color: #FFFFFF;
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	padding: 10px 0 13px 15px;
+}
+
+.switcher h2 a {
+	/* background: url("../images/switcher.png") no-repeat scroll 5px center #1B1A1A; */
+	background: #1B1A1A;
+
+	display: block;
+	height: 41px;
+	position: absolute;
+	right: -39px;
+	text-indent: -9999px;
+	top: 0;
+	width: 39px;
+	border-radius: 0 4px 4px 0;
+}
+
+.switcher h2 a img {
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	/* animation: rotated 5s infinite; */
+}
+
+.switcher .content {
+	padding:5px 16px 16px 16px;
+	overflow:hidden;
+}
+
+.hide {
+	display:none; /* first load page enough */
+}
+
+/* Layout Box */
+.layout-switcher {
+	margin:0 0 10px 0;
+	overflow:hidden;
+}
+
+.layout-switcher a.layout {
+	padding: 6px 7px 8px 7px;
+	border-radius: 2px;
+	color:#fff;
+	font-weight: bold;
+	border:1px solid #6A6A6A;
+	width: 60px;
+	cursor: pointer;
+	float: left;
+	display: block;
+	margin: 0 6px 0 0;
+	text-align: center;
+	background: #1B1A1A;
+}
+/* Color Box */
+.switcher-box {
+	height:auto;
+	overflow:hidden;
+	margin-bottom:6px;
+}
+
+	 .styleswitch {
+ 	width: 35px;
+     height: 35px;
+ 	display: block;
+ 	cursor: pointer;
+ 	margin: 10px;
+ 	float:left;
+ 	border-radius: 3px;
+ }
+
+.styleswitch.selected { box-shadow: 0 0 0 2px #474646 inset; }
+
+
+
+ .styleswitch#default   { background: #ce4624; }
+ .styleswitch#orange { background: #fcab55; }
+ .styleswitch#purple { background: #c357c7; }
+ .styleswitch#red { background: #ef3f6b; }
+ .styleswitch#yellow { background: #ffcb08; }
+ .styleswitch#blue { background: #274abb; }
+ .styleswitch#bridge { background: #6F9A37; }
+ .styleswitch#cyan { background: #35d3b7; }
+ .styleswitch#darkred { background: #a00e0f; }
+ .styleswitch#green { background: #34bc55; }
+ .styleswitch#liteblue { background: #41c6f2; }
+ .styleswitch#olive { background: #b3c211; }
+
+
+
+
+
+
+
+/*
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.switcher{
+		display:none;
+	}
+}
+
+@media only screen and (max-width: 479px) {
+	.switcher{
+		display:none;
+	}
+} */
