@@ -1,0 +1,602 @@
+input,
+button,
+textarea,
+select {
+  font-size: 100%;
+}
+#plans-container {
+  overflow: hidden;
+  zoom: 1;
+}
+.u-name,
+.switch-nav .tab-wrp,
+.top-header .top-nav li,
+.shp-cart .shp-cart-no {
+  display: inline;
+}
+#shopping-cart hr {
+  margin: 5px 0 0;
+}
+.dplan-list .plans,
+.cart-items {
+  zoom: 1;
+  display: inline;
+}
+#page-footer {
+  zoom: 1;
+}
+.shadow-div {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/shadow-bg.gif")
+    repeat-x 0 10px;
+  height: 15px;
+  border-top: none;
+  border-bottom: 1px solid #f0f0f0;
+}
+#show-tldlist .heading div {
+  width: 300px;
+  padding-top: 3px;
+  margin-top: 5px;
+}
+.row-gray {
+  background: #f3f3f3
+    url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/gray-bg.png")
+    repeat-x left top;
+  zoom: 1;
+}
+.submitbtn_lrg {
+  border: 1px solid #5b8c08;
+  padding: 0;
+}
+.form-list,
+.form-list li {
+  height: 1%;
+}
+.tabs-wrapper .tab li a {
+  background: #ededed;
+  border: solid 1px #ddd;
+  border-bottom: none;
+  display: inline;
+}
+.features-wrp .faq {
+  box-shadow: 0px 0px 3px #bebebe;
+}
+.txt-button,
+.uiButton,
+.ui-button,
+.frmButton,
+.button-checkout {
+  -pie-background: linear-gradient(#61aaef, #236fe2);
+  position: relative;
+}
+.txt-button:hover,
+.uiButton:hover,
+.ui-button:hover,
+.frmButton:hover {
+  -pie-background: linear-gradient(#4892e9, #236fe2);
+}
+.frmButton-disable {
+  -pie-background: linear-gradient(#ededed, #dfdfdf);
+}
+.gray-button {
+  top: -7px;
+}
+.sd-tarea {
+  position: relative;
+  overflow: auto;
+}
+.domain-submit,
+.domain-submit-disabled {
+  -pie-background: linear-gradient(#a3ca2d, #6f9304);
+}
+#homepage-content #region-top .wide-left-column .view-plan .text {
+  display: inline;
+}
+.plan-list {
+  display: inline;
+  zoom: 1;
+}
+h3 em {
+  font-style: normal;
+}
+#dplans-container .plan-list .p-dropdown select {
+  width: 150px;
+}
+#dplans-container .plan-featured li.p-button .txt-button {
+  font-size: 21px;
+}
+.item-close a {
+  display: block;
+}
+#select_domain .frm-field,
+#select_domain .frm-select,
+#select_domain .uiButton {
+  position: static;
+}
+.multiDomain .actionRow {
+  z-index: 1000 !important;
+}
+.txt-button span,
+.uiButton span,
+.ui-button span,
+.frmButton span {
+  color: #fff;
+}
+.note2,
+.tab li a,
+.features-wrp .faq {
+  position: relative;
+}
+.flt-div {
+  z-index: 100 !important;
+}
+.wfix {
+  width: 400px !important;
+}
+#loginForm .ui-heading {
+  height: 1%;
+}
+.gray-button {
+  position: relative;
+}
+.pl-title {
+  margin-top: expression(
+    this.offsetHeight < this.parentNode.offsetHeight ?
+      parseInt((this.parentNode.offsetHeight - this.offsetHeight) / 2) + "px":
+      "0"
+  );
+}
+
+#page-header h1 .logo-cont {
+  display: block;
+}
+#page-header h1 .logo-cont * {
+  vertical-align: middle;
+}
+
+#page-header h1 .logo-cont span {
+  display: inline-block;
+  height: 100%;
+  width: 1px;
+}
+
+#form_couponForm #input_coupon_code {
+  position: relative;
+}
+.frmButton-disable {
+  position: relative;
+}
+.frmSignupSplit .frmSubmit .uiButton {
+  position: absolute;
+}
+
+.form-field-wrapper .uiButton {
+  width: 140px;
+}
+.form-field-wrapper {
+  position: relative;
+}
+
+#primary-nav {
+  background: #333
+    url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-sprite.png)
+    repeat-x left top !important;
+}
+#homepage-content .view-plan .text {
+  z-index: 1000 !important;
+}
+.ic-tip {
+  top: 16px !important;
+}
+.features-wrp .faq {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/dethr-bg.jpg")
+    repeat !important;
+}
+
+.plan-list {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/plan-list.gif)
+    #f9f9f9 no-repeat center top !important;
+}
+.hosting-modal-body {
+  background: #fff;
+}
+.modal_content {
+  border-radius: 0;
+}
+.cbox-wrp ul li,
+.icon-US,
+.icon-IN {
+  display: inline;
+}
+.cbox-wrp ul li {
+  bottom: -1px;
+}
+.cbox-wrp ul li.active {
+  bottom: -15px !important;
+}
+.dplan-list .plans {
+  border: solid 1px #ccc;
+}
+#dd-plans .plan-featured {
+  top: 23px;
+}
+
+/* Paid Pre Reg */
+
+body {
+  margin: 25px auto 0 auto;
+}
+#text-notes h2 {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/tell-me-more-bg.png")
+    no-repeat 29px 2px;
+  font-size: 14px;
+}
+#text-notes UL {
+  display: inline;
+  position: relative;
+  zoom: 1;
+  clear: both;
+  margin: 0 30px 150px 30px; /*border:1px solid red;*/
+}
+.new-tlds-page .domain-submit {
+  background-image: none;
+  margin: 4px 5px;
+}
+#category-list li.even {
+  background: #f8f8f8;
+}
+#category-list li.odd {
+  background: #fff;
+}
+#other-gtld li span em {
+  font-style: normal !important;
+}
+#other-gtld li {
+  display: inline;
+  position: relative;
+  zoom: 1;
+  padding: 10px 15px;
+}
+#category-list li.featured {
+  padding-left: 17px;
+}
+#other-gtld li {
+  position: relative;
+}
+#other-gtld a[data-action="add_to_prebook"] {
+  top: -20px;
+}
+#dca_cart #wishlist_domain_list .domaintxt span,
+.gtld-list li span .tld {
+  font-weight: 600;
+}
+#dca_cart .ic-can {
+  position: absolute !important;
+  top: 2px;
+}
+#dca_cart #wishlist_domain_list li,
+#dca_cart #prebook_domain_list li {
+  margin-left: 5px !important;
+}
+
+.three-clmn-wrap {
+  position: relative;
+}
+.column_3 {
+  position: absolute;
+  right: 20px !important;
+  top: 120px !important;
+  float: none !important;
+  margin: 0 !important;
+}
+#featured-gtld {
+  padding: 0 20px !important;
+  width: 450px !important;
+}
+#featured-gtld li {
+  margin: 12px 0 !important;
+}
+#dca_cart .cart-button {
+  bottom: 0 !important;
+  position: relative !important;
+}
+#featured-gtld p.pre-book-button-wrap {
+  padding: 13px 0;
+}
+
+span.classic {
+  background: #666 !important;
+}
+span.classic .tooltip_img {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/ee-dropdown.gif")
+    no-repeat center bottom !important;
+  display: inline-block;
+  width: 15px;
+  height: 7px;
+  margin-top: 17px;
+}
+#other-gtld li span.domainname-tld,
+#other-gtld li span.domainname-tld1 {
+  position: relative;
+  top: 20px;
+}
+#other-gtld li span.from-text,
+#other-gtld li span.currency {
+  position: absolute !important;
+  left: 215px;
+}
+#other-gtld li span.currency {
+  top: 45px;
+  font-weight: 600;
+}
+#other-gtld li span.from-text {
+  top: 25px;
+}
+
+/* DCA Revamp */
+
+.dca-footer-banner a {
+  display: inline-block;
+  *display: inline;
+  *position: relative;
+  zoom: 1;
+}
+
+.loading-dca-content {
+  width: 735px !important;
+  margin: 80px 0 !important;
+}
+
+.dca-footer-banner .learn-more-container {
+  width: 168px !important;
+  height: 21px !important;
+}
+
+.dca-footer-banner a {
+  margin: -10px 0 0 0;
+}
+
+.primary-result span.inline-block button,
+.secondary-result span.inline-block button {
+  width: 120px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.dca-domain-name.dca-dn-available {
+  line-height: 39px;
+}
+
+/* SiteLock */
+
+.sl-features h3 {
+  white-space: nowrap;
+}
+.sl-learn-more span {
+  margin-bottom: 4px;
+}
+.sl-howitworks-details {
+  display: inline-block;
+}
+.tabs ul li {
+  display: inline-block;
+}
+#sl-notification.tabs.active {
+  display: inline-block;
+}
+.sl-lquote,
+.sl-rquote {
+  display: inherit !important;
+}
+.ie7-margin {
+  margin: 100px 0;
+}
+
+/* Managed Servers */
+
+.ms-plans .gray-parent {
+  width: 940px;
+}
+.dplan-list .plans {
+  border: 0;
+}
+.ms-plan-details {
+  width: 235px !important;
+  margin: 0 !important;
+}
+.ms-server-mgmt h3 {
+  white-space: nowrap;
+}
+#managed-server-wrapper .ms-plan-details ul li button.txt-button {
+  -pie-background: none;
+  box-shadow: none;
+}
+#managed-server-wrapper .ms-plan-details ul li button.txt-button:hover {
+  -pie-background: none;
+  box-shadow: none;
+}
+.ms-server-mgmt .services {
+  margin-bottom: 15px;
+}
+.parent-border {
+  overflow-x: hidden;
+}
+.ms-benefits h2 {
+  margin-top: 0px;
+}
+
+/* Codeguard */
+
+#cog-wrapper .cog-banner-links P span.currency-symbol.green-text {
+  line-height: 30px;
+}
+#cog-wrapper .cog-link-2-video {
+  margin: 0;
+  height: 45px;
+  line-height: 45px;
+}
+#cog-wrapper .cog-link-2-video-icon {
+  vertical-align: middle;
+}
+#cog-wrapper .cog-banner-links .rfloat a.cog-link-2-plans {
+  margin: 0 15px 0 0;
+}
+#cog-wrapper .cog-features .cog-feature-details h3 {
+  white-space: nowrap;
+}
+table#cog-plans-pricing-table tr td button.cog-buybutton {
+  padding: 8px 25px;
+}
+table#cog-plans-pricing-table tr td a.tooltipanimated.cog-website-restore span {
+  height: 35px;
+}
+.cog-auto-backup span.classic .tooltip_img,
+.cog-zip-download span.classic .tooltip_img {
+  margin-top: 14px;
+}
+.cog-req-backup span.classic .tooltip_img,
+.cog-website-restore span.classic .tooltip_img,
+.cog-file-restore span.classic .tooltip_img {
+  margin-top: 11px;
+}
+#cog-wrapper .cog-testimonials {
+  overflow: hidden;
+  height: 220px !important;
+}
+#cog-wrapper .cog-testimonials ol.h-centered.bjqs-markers {
+  top: -68px;
+}
+#cog-wrapper .cog-clients {
+  margin: 0 auto 100px auto;
+}
+
+/* New Fat Menu */
+
+.nav ul.navigation li ul.submenu-parent {
+  border: 1px solid #999;
+  border-top: 0;
+  padding-bottom: 25px;
+  left: -1px;
+}
+.nav ul.navigation li ul.submenu-parent#domainssubmenu {
+  padding-bottom: 0;
+}
+.nav
+  ul.navigation
+  li
+  ul.submenu-parent#domainssubmenu
+  > li
+  li
+  .menu-content
+  a
+  .mnew-tag {
+  position: absolute;
+}
+.nav ul.navigation li ul.submenu-parent > li li .menu-content a .mnew-tag {
+  right: -20px;
+  position: absolute;
+}
+.nav ul.navigation li ul.submenu-parent#hostingsubmenu {
+  left: -333px;
+}
+.nav ul.navigation li ul.submenu-parent > li li .menu-content a,
+.nav ul.navigation li ul.submenu-parent > li li p {
+  padding-left: 7px;
+}
+.nav ul.navigation li ul.submenu-parent#domainssubmenu > li li p,
+.nav ul.navigation li ul.submenu-parent#domainssubmenu > li li a {
+  padding-left: 0;
+}
+
+/* EE - Lite */
+
+.ee-lite-submit-wrapper .ui-button.pie_first-child {
+  background: #2fbe15 !important;
+  border: 1px solid #18900b !important;
+}
+.ee-lite-submit-wrapper .ui-button.pie_first-child:hover {
+  background: #34c918 !important;
+}
+.ee-lite-submit-wrapper .ui-button.pie_first-child:active {
+  background: #2db315 !important;
+}
+.ee-lite-total-wrapper {
+  padding: 39px 40px 40px 40px;
+}
+.ee-lite-banner p.ee-lite-highlights span {
+  vertical-align: middle;
+}
+.ee-lite-banner p.ee-lite-highlights {
+  line-height: 23px;
+}
+.ee-lite-banner p.upgrade-blurb {
+  background: #333;
+}
+/* New style Login or Signup on Checkout Page */
+
+.checkout-login-signup input[type="radio"].custom-radio {
+  display: inline;
+  margin-top: 3px;
+}
+.checkout-login-signup .lfloat input[type="radio"].custom-radio {
+  position: relative;
+  left: 0;
+}
+.checkout-login-signup label.custom-radio-label:before,
+.checkout-login-signup input[type="radio"]:checked.custom-radio + label:before {
+  display: none;
+}
+.checkout-login-signup .lfloat input#customer_email {
+  padding: 10px 8px;
+}
+.checkout-login-signup .lfloat label,
+.checkout-login-signup .rfloat label {
+  padding-left: 0;
+  display: inline-block;
+  width: 350px;
+  vertical-align: top;
+}
+.checkout-login-signup .rfloat p.signup-note,
+.checkout-login-signup .lfloat p.signup-note {
+  display: block;
+  margin: 5px 0;
+}
+.checkout-login-signup .lfloat .checkout-signup-note-separator,
+.checkout-login-signup .rfloat .checkout-signup-note-separator {
+  display: none;
+}
+
+/* Google Apps */
+
+.gapps-submit-wrapper .ui-button.pie_first-child {
+  background: #2fbe15 !important;
+  border: 1px solid #18900b !important;
+}
+
+.gapps-submit-wrapper .ui-button.pie_first-child:hover {
+  background: #34c918 !important;
+}
+
+.gapps-submit-wrapper .ui-button.pie_first-child:active {
+  background: #2db315 !important;
+}
+
+.gapps-total-wrapper {
+  padding: 39px 40px 40px 60px;
+}
+
+.gapps-banner .gapps-banner-img {
+  margin-bottom: 0;
+}
+
+.gapps-plans-seperator {
+  left: 40px;
+}
+
+.gapps-plan-divider {
+  display: none !important;
+}
+
+.gapps-submit-wrapper {
+  height: 146px;
+}

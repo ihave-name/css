@@ -1,0 +1,524 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+/*----------------*/
+input,
+button,
+textarea,
+select {
+  font-size: 100%;
+}
+select {
+  border: 1px solid red;
+}
+#plans-container {
+  overflow: hidden;
+  zoom: 1;
+}
+.u-name,
+.switch-nav .tab-wrp {
+  display: inline;
+}
+#shopping-cart hr {
+  margin: 5px 0 0;
+}
+.cart-items {
+  zoom: 1;
+  display: inline;
+}
+#page-footer {
+  zoom: 1;
+}
+.shadow-div {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/shadow-bg.gif")
+    repeat-x 0 10px;
+  height: 15px;
+  border-top: none;
+  border-bottom: 1px solid #f0f0f0;
+}
+#show-tldlist .heading div {
+  width: 300px;
+  padding-top: 3px;
+  margin-top: 5px;
+}
+.row-gray {
+  background: #f3f3f3
+    url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/gray-bg.png")
+    repeat-x left top;
+  zoom: 1;
+}
+.submitbtn_lrg {
+  border: 1px solid #5b8c08;
+  padding: 0;
+}
+.form-list,
+.form-list li {
+  height: 1%;
+}
+.tabs-wrapper .tab li a {
+  background: #ededed;
+  border: solid 1px #ddd;
+  border-bottom: none;
+  display: inline;
+}
+.features-wrp .faq {
+  box-shadow: 0px 0px 3px #bebebe;
+}
+.txt-button,
+.uiButton,
+.ui-button,
+.frmButton {
+  -pie-background: linear-gradient(#61aaef, #236fe2);
+  position: relative;
+}
+.txt-button:hover,
+.uiButton:hover,
+.ui-button:hover,
+.frmButton:hover {
+  -pie-background: linear-gradient(#4892e9, #236fe2);
+}
+.frmButton-disable {
+  -pie-background: linear-gradient(#ededed, #dfdfdf);
+}
+.gray-button {
+  top: -7px;
+}
+.sd-tarea {
+  position: relative;
+  overflow: auto;
+}
+.domain-submit,
+.domain-submit-disabled {
+  -pie-background: linear-gradient(#a3ca2d, #6f9304);
+}
+#homepage-content #region-top .wide-left-column .view-plan .text {
+  display: inline;
+}
+.plan-list {
+  display: inline;
+  zoom: 1;
+}
+h3 em {
+  font-style: normal;
+}
+#dplans-container .plan-list .p-dropdown select {
+  width: 150px;
+}
+#dplans-container .plan-featured li.p-button .txt-button {
+  font-size: 21px;
+}
+.item-close a {
+  display: block;
+}
+#select_domain .frm-field,
+#select_domain .frm-select,
+#select_domain .uiButton {
+  position: static;
+}
+.multiDomain .actionRow {
+  z-index: 1000 !important;
+}
+.txt-button span,
+.uiButton span,
+.ui-button span,
+.frmButton span {
+  color: #fff;
+}
+.note2,
+.tab li a,
+.features-wrp .faq {
+  position: relative;
+}
+.flt-div {
+  z-index: 100 !important;
+}
+.wfix {
+  width: 400px !important;
+}
+#loginForm .ui-heading {
+  height: 1%;
+}
+.gray-button {
+  position: relative;
+}
+
+#page-header h1 .logo-cont {
+  display: block;
+}
+#page-header h1 .logo-cont * {
+  vertical-align: middle;
+}
+
+#page-header h1 .logo-cont span {
+  display: inline-block;
+  height: 100%;
+  width: 1px;
+}
+
+/*----------------*/
+#ie6-wrapper {
+  margin-bottom: 15px;
+}
+#page-header h1 .logo-cont {
+  display: block;
+}
+#page-header h1 .logo-cont * {
+  vertical-align: middle;
+}
+
+#page-header h1 .logo-cont span {
+  display: inline-block;
+  height: 100%;
+  width: 1px;
+}
+
+#hosting-products,
+#misc-products {
+  height: 280px;
+}
+.pro-devider {
+  margin-bottom: 30px;
+}
+#site-builder,
+#ssl-certs {
+  height: 205px;
+}
+.nav ul {
+  display: inline;
+}
+#primary-nav .l-corner,
+#primary-nav .r-corner {
+  top: 45px;
+}
+
+/* PRIMARY NAVIGATION */
+
+.nav .menu-hover {
+  z-index: 2;
+}
+.nav li a {
+  margin-top: -12px;
+  position: relative;
+}
+
+.nav li a:hover .menu-left,
+.nav .active a .menu-left,
+.nav li:hover a .menu-left,
+.nav li.nav-hover a .menu-left {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-cap-left.gif)
+    no-repeat 0 -3px;
+}
+
+.active #menu-homesection .menu-mid,
+.nav .first #menu-homesection:hover .menu-mid {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/ic-home-avtive-ie.gif)
+    no-repeat 14px 14px #efefef;
+  text-indent: -999em;
+  width: 35px;
+}
+
+#menu-homesection .menu-mid {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/ic-home-ie.gif)
+    no-repeat 14px 14px;
+  text-indent: -999em;
+  width: 35px;
+}
+.nav .active a .menu-mid,
+.nav li a:hover .menu-mid,
+.nav li:hover a .menu-mid,
+.nav li.nav-hover a .menu-mid {
+  background: #eee;
+  border: 1px solid #c6c6c6;
+  margin: 0px;
+}
+.nav li a:hover .menu-mid,
+.nav li:hover a .menu-mid,
+.nav li.nav-hover a .menu-mid {
+  background: #fff;
+  color: #333;
+}
+a .menu-right {
+  background: transparent;
+  width: 7px;
+  height: 5px;
+  line-height: 35px;
+  display: block;
+  float: left;
+}
+.nav li a:hover .menu-right,
+.nav .active a .menu-right,
+.nav li:hover a .menu-right,
+.nav li.nav-hover a .menu-right {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-cap-right.gif)
+    no-repeat 0 -1px;
+}
+.nav li a:hover .menu-left,
+.nav li.active a .menu-left,
+.nav li:hover a .menu-left,
+.nav li a:hover .menu-mid,
+.nav li.active a .menu-mid,
+.nav li:hover a .menu-mid,
+.nav li a:hover .menu-right,
+.nav li.active a .menu-right,
+.nav li:hover a .menu-right {
+  line-height: 35px;
+  color: #333;
+}
+.nav li a:hover,
+.nav li.active a,
+.nav li.hover a,
+.nav li:hover a {
+  color: #f17c1a;
+  text-decoration: none;
+}
+.nav li:hover .sub,
+.nav li.hover .sub {
+  display: block;
+  background: #fff;
+  z-index: 121;
+}
+.nav li .sub {
+  display: none;
+  position: absolute;
+  top: 40px;
+  left: 7px;
+  background: #fff;
+  width: 805px;
+  padding: 9px 0 15px 0;
+  z-index: 121;
+  border: solid 1px #c6c6c6;
+  border-top: none;
+  box-shadow: 0 10px 10px #a5a5a5;
+}
+.nav .box-2 .sub {
+  width: 265px;
+}
+.nav .box-2 ul {
+  width: 265px;
+}
+
+.nav li .nav-note {
+  display: block;
+  font: normal 12px Arial, Helvetica, sans-serif;
+  color: #555;
+  padding-top: 3px;
+}
+.nav-heading {
+  overflow: hidden;
+  margin: 0 18px 10px 18px;
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-sepr.jpg)
+    repeat-x 0 58px #fff;
+  zoom: 1;
+}
+.nav-heading .title {
+  font: normal 18px Arial, Helvetica, sans-serif;
+  color: #555;
+  float: left;
+}
+.nav-heading .h-ic-1 {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-ic-1.jpg)
+    no-repeat 0 19px;
+  padding: 20px 0 20px 40px;
+  width: 215px;
+}
+.nav-heading .h-ic-2 {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-ic-2.jpg)
+    no-repeat 14px 19px;
+  padding: 20px 0 20px 60px;
+  width: 199px;
+}
+.nav-heading .h-ic-3 {
+  background: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-ic-3.jpg)
+    no-repeat 23px 19px;
+  padding: 20px 0 20px 60px;
+  width: 195px;
+}
+
+.nav li .sub li {
+  width: 267px !important;
+  margin: 0px;
+}
+.nav li .sub li a {
+  color: #494949 !important;
+  margin-left: 10px !important;
+}
+
+.nav li:hover li a:hover,
+.nav li.active li a:hover,
+.nav li.nav-hover li a:hover {
+  color: #77af27 !important;
+}
+
+.domain-search-box {
+  width: 493px;
+}
+
+/*------------------*/
+
+#subn-2 li a {
+  margin-left: 10px !important;
+  font-weight: bold;
+  font-size: 15px;
+}
+#primary-nav .l-corner {
+  background-position: 0 -55px;
+  font-size: 1px;
+}
+#primary-nav .r-corner {
+  background-position: -16px -55px;
+  font-size: 1px;
+}
+
+.plan-list {
+  overflow: hidden;
+}
+.plans-columns.linux-hosting .plan-list {
+  height: 432px;
+  overflow: hidden;
+}
+.plans-columns.windows-hosting .plan-list {
+  height: 440px;
+  overflow: hidden;
+}
+.plans-columns.reseller-hosting .plan-list {
+  height: 380px;
+  overflow: hidden;
+}
+.plans-columns.email-hosting .plan-list {
+  height: 430px;
+  overflow: hidden;
+}
+.plans-columns.site-builder .plan-list {
+  height: 440px;
+  overflow: hidden;
+}
+.plan-list li {
+}
+.plan-list {
+}
+.ui-heading {
+  zoom: 1;
+}
+.modal_overlay {
+  filter: alpha(opacity=70);
+}
+.form-field-wrapper {
+  position: relative;
+}
+.CartSection {
+  zoom: 1;
+}
+#form_couponForm #input_coupon_code,
+.Cart-Total,
+#loginForm {
+  position: relative;
+}
+.domains-select .ie-fix {
+  padding-top: 6px;
+}
+.feature-blurb ul li {
+  margin-right: 30px;
+}
+#primary-nav .l-corner,
+#primary-nav .r-corner,
+.cart-items {
+  background-image: url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-sprite-ie.gif);
+}
+
+span.pl-title {
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+}
+span.pl-title b {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.p-pricing {
+  font-size: 32px;
+}
+.tlds-dd {
+  font-size: 5px;
+  width: 14px;
+}
+.dreg {
+  background-position: -1px -104px;
+  width: 27px;
+}
+.tran {
+  background-position: -1px -140px;
+  width: 36px;
+}
+.addo {
+  background-position: -1px -176px;
+  width: 27px;
+  height: 26px;
+}
+li.p-name {
+  font-size: 20px;
+}
+
+.plan-featured li.p-button .txt-button {
+  line-height: 25px;
+}
+.home-blurbs li {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/ic-tic.gif")
+    no-repeat scroll 0 4px transparent;
+}
+#plans-masthead li {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/ic-tic.gif")
+    no-repeat scroll 0 3px transparent;
+}
+.fea-list li {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/ic-tic.gif")
+    no-repeat 8px 5px;
+  zoom: 1;
+}
+.form-field-wrapper {
+  vertical-align: top;
+}
+.form-field-wrapper .uiButton {
+  padding: 4px 14px;
+  width: 140px;
+}
+#dplans-container .plan-list {
+}
+#dplans-container .plan-list li {
+  width: 153px;
+}
+#dplans-container .plan-list li .pl-title {
+  width: 153px;
+}
+
+.ic-tip {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-sprite-ie.gif")
+    no-repeat -45px -120px;
+  z-index: 1000;
+}
+.item-close a {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/close.gif")
+    no-repeat scroll 0 0 transparent;
+}
+.row-gray {
+  background: #f3f3f3
+    url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/gray-bg.png")
+    repeat-x left top;
+  zoom: 1;
+}
+.hosting-modal-title {
+  zoom: 1;
+}
+.modal_content .form-field-wrapper {
+  zoom: 1;
+}
+#upsell_modal_select_domain .form-field-wrapper select {
+  padding: 8px 4px;
+}
+.loginform select.frm-field {
+  width: 320px;
+}
+.loginform #input_phone {
+  width: 235px;
+}

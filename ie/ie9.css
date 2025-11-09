@@ -1,0 +1,24 @@
+#page-header{margin-bottom:-1px; }
+.menu-ic.rhw{margin-bottom:15px;} 
+
+/* Paid Pre Reg */
+
+#category-list li.featured { padding-left: 30px; }
+
+/* New Fat Menu */
+
+.nav ul.navigation li ul.submenu-parent { left:-0.5px }
+
+/* EE - Lite */
+
+.ee-lite-plan-divider { left:739px; }
+
+.ee-lite-total-wrapper { width:182px; }
+
+/* Google Apps */
+
+.gapps-total-wrapper { padding: 39px 0 40px 51px; }
+
+.gapps-plan-divider { left:739px; }
+
+#change_country { margin-left:10px }
