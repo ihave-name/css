@@ -4,15 +4,19 @@
 
 ---------------------------------------------------------------------------*/
 
-@import url('bootstrap.min.css');
+/*
+@import url('bootstrap.css');
 @import url('../aos/aos.css');
 @import url('fontawesome.css');
 @import url('custom-animation.css');
 @import url('framework.css');
 @import url('swiper-bundle.css');
-/*@import url('slick.css');
-@import url('slick-theme.css');*/
-/*@import url('font-awesome.min.css');*/
+
+@import url('slick.css');
+@import url('slick-theme.css');
+@import url('font-awesome.min.css');
+*/
+
 /* --------------------------------------------------------------------------
 
                             body
