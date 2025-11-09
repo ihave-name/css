@@ -1,0 +1,338 @@
+.txt-button,
+.uiButton,
+.ui-button,
+.frmButton,
+#applyCoupon,
+.tab li a {
+  position: relative;
+}
+
+#form_couponForm #input_coupon_code {
+  position: relative;
+}
+.txt-button,
+.uiButton,
+.ui-button,
+.frmButton,
+.button-checkout {
+  -pie-background: linear-gradient(#61aaef, #236fe2);
+}
+.txt-button:hover,
+.uiButton:hover,
+.ui-button:hover,
+.frmButton:hover,
+.button-checkout:hover {
+  -pie-background: linear-gradient(#4892e9, #236fe2);
+}
+.frmButton-disable {
+  -pie-background: linear-gradient(#ededed, #dfdfdf);
+  position: relative;
+}
+.domain-submit,
+.domain-submit-disabled {
+  -pie-background: linear-gradient(#a3ca2d, #6f9304);
+}
+#primary-nav {
+  background: #333
+    url(https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/menu-sprite.png)
+    repeat-x left top !important;
+}
+.ic-tip {
+  top: 16px !important;
+}
+.features-wrp .faq {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/dethr-bg.jpg")
+    repeat !important;
+}
+.modal_overlay {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+  filter: alpha(opacity=75);
+}
+#region-top .wide-left-column .blocks .in,
+#region-top .wide-left-column .blocks .com {
+  color: #333;
+}
+.dplan-list .plans {
+  border: solid 1px #ccc;
+}
+a .menu-mid {
+  padding: 9px 6px 2px;
+}
+#homepage-content #region-top .wide-left-column .view-plan .text {
+  display: inline;
+}
+
+/* Paid pre reg */
+
+#text-notes h2 {
+  background: url("https://cdn.jsdelivr.net/gh/ihave-name/assets@v1.0.0/tell-me-more-bg.png")
+    no-repeat 29px 2px;
+  font-size: 14px;
+}
+#text-notes UL {
+  display: inline-block;
+  clear: both;
+  margin: 0 30px 150px 30px; /*border:1px solid red;*/
+}
+.new-tlds-page .domain-submit {
+  background-image: none;
+  margin: 4px 5px;
+}
+#category-list li {
+  width: 180px;
+}
+#category-list li.featured {
+  width: 170px;
+}
+#category-list li.even {
+  background: #f8f8f8;
+}
+#category-list li.odd {
+  background: #fff;
+}
+#other-gtld li {
+  display: inline-block;
+  padding: 20px 0 !important;
+  width: 100%;
+}
+#other-gtld li span {
+  margin: 0 0 0 15px;
+}
+#other-gtld li a {
+  margin: 0 15px 0 0;
+}
+#dca_cart #wishlist_domain_list .domaintxt span,
+.gtld-list li span .tld {
+  font-weight: 600;
+}
+#other-gtld a:hover.tooltipanimated span {
+  left: -30px;
+}
+#other-gtld li span.domainname-tld,
+#other-gtld li span.domainname-tld1,
+#other-gtld a[data-action="add_to_prebook"],
+#other-gtld a[data-action="add_to_wishlist"] {
+  position: relative;
+}
+#other-gtld li span.domainname-tld {
+  top: 15px;
+}
+#other-gtld li span.domainname-tld1 {
+  top: 5px;
+}
+#other-gtld li span.from-text,
+#other-gtld li span.currency {
+  position: absolute !important;
+  left: 200px;
+}
+#other-gtld li span.currency {
+  top: 45px;
+  font-weight: 600;
+}
+#other-gtld li span.from-text {
+  top: 25px;
+}
+#other-gtld a[data-action="add_to_prebook"] {
+  top: -12px;
+}
+#other-gtld a[data-action="add_to_wishlist"] {
+  bottom: 0;
+}
+
+#show-tldlist {
+  z-index: 100;
+}
+/* Sitelock */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
+
+.sl-head-banner ul li,
+.sl-features h2,
+.sl-howitworks h2,
+.sl-testimonials h2,
+.testimonial-author,
+.sl-featured-plan td,
+.sl-plans-pricing tbody tr.sl-featured td,
+#sl-plan-details h2 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.sl-head-meta .sl-start-currency,
+.sl-head-meta .sl-start-price,
+.sl-head-meta .sl-start-time,
+.sl-features h3,
+.sl-howitworks-step span,
+.sl-howitworks-step h3,
+.sl-testimonials ul li p em,
+.tabs h3,
+.tabs h4,
+.sl-email-notify,
+.sl-sms-notify,
+.learnhow-seperator,
+.sl-plan-name,
+.sl-plan-price .symbol,
+.sl-plan-price .duration,
+.sl-plans-pricing tbody td span.sl-no,
+.sl-featured-plan td span {
+  font-family: "Open Sans", sans-serif;
+}
+
+.sl-plan-price .value {
+  font-family: "Open Sans", sans-serif;
+}
+.nav li {
+  margin: 0;
+}
+.sl-features h3 {
+  white-space: nowrap;
+}
+
+/* Managed Servers */
+
+.ms-plans .gray-parent {
+  width: 940px;
+}
+
+.dplan-list .plans {
+  border: 0;
+}
+
+.ms-plan-details {
+  width: 235px !important;
+}
+
+.ms-server-mgmt h3 {
+  white-space: nowrap;
+}
+
+#managed-server-wrapper .ms-plan-details ul li button.txt-button {
+  -pie-background: none;
+  box-shadow: none;
+}
+#managed-server-wrapper .ms-plan-details ul li button.txt-button:hover {
+  -pie-background: none;
+  box-shadow: none;
+}
+
+/* Codeguard */
+
+#cog-wrapper .cog-features .cog-feature-details h3 {
+  white-space: nowrap;
+}
+
+/* DCA - Revamp Phase - 2 */
+
+a.tooltipanimated.dca-comingsoon-button:hover span {
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+a.tooltipanimated.dca-comingsoon-button.clicked:hover span {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* New Fat Menu */
+
+.nav ul.navigation li ul.submenu-parent {
+  border: 1px solid #999;
+  border-top: 0;
+  left: -1px;
+}
+.nav ul.navigation li ul.submenu-parent#hostingsubmenu {
+  left: -333px;
+}
+
+/* EE - Lite */
+
+#ee-lite-wrapper input {
+  height: auto;
+  padding: 10px 0;
+}
+
+.ee-lite-select-wrapper select {
+  height: auto;
+  padding: 8px 0 10px 13px;
+}
+
+.ee-lite-features ul li h3,
+.ee-lite-banner P.ee-lite-highlights span {
+  font-weight: bold;
+}
+
+.ee-lite-features h2,
+.ee-lite-plans h2 {
+  font-size: 24px;
+}
+
+.ee-lite-submit-wrapper .ui-button.pie_first-child {
+  background: #2fbe15 !important;
+  border: 1px solid #18900b !important;
+}
+.ee-lite-submit-wrapper .ui-button.pie_first-child:hover {
+  background: #34c918 !important;
+}
+.ee-lite-submit-wrapper .ui-button.pie_first-child:active {
+  background: #2db315 !important;
+}
+
+.ee-lite-submit-wrapper {
+  height: 143px;
+}
+
+.ee-lite-banner p.upgrade-blurb {
+  background: #333;
+}
+
+/* New style Login or Signup on Checkout Page */
+
+.checkout-login-signup input[type="radio"].custom-radio {
+  display: inline;
+  margin-top: 7px;
+}
+
+.checkout-login-signup label.custom-radio-label:before {
+  display: none;
+}
+
+.checkout-login-signup .lfloat input#customer_email {
+  padding: 5px 8px;
+}
+
+.checkout-login-signup .lfloat label,
+.checkout-login-signup .rfloat label {
+  padding-left: 5px;
+  display: inline-block;
+  width: 350px;
+  vertical-align: top;
+}
+
+/* Google Apps */
+
+#gapps-wrapper input {
+  height: auto;
+  padding: 10px 0;
+}
+
+.gapps-select-wrapper select {
+  height: auto;
+  padding: 8px 0 10px 13px;
+}
+
+.gapps-features ul li h3 {
+  font-weight: bold;
+}
+
+.gapps-submit-wrapper .ui-button.pie_first-child {
+  background: #2fbe15 !important;
+  border: 1px solid #18900b !important;
+}
+.gapps-submit-wrapper .ui-button.pie_first-child:hover {
+  background: #34c918 !important;
+}
+.gapps-submit-wrapper .ui-button.pie_first-child:active {
+  background: #2db315 !important;
+}
+
+.gapps-submit-wrapper {
+  height: 146px;
+}
